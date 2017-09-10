@@ -5,7 +5,7 @@
 
 ### NIGEL FINLEY
 ###### Customer Focused. Lifelong Learner. Solutions Architect
-:phone 520.604.1922 | nfinleymusic@gmail.com | [github.com/Nfinley](https://github.com/nfinley) | [linkedin.com/in/nigelfinley](https://www.linkedin.com/in/nigelfinley/)
+:phone: 520.604.1922 | nfinleymusic@gmail.com | [github.com/Nfinley](https://github.com/nfinley) | [linkedin.com/in/nigelfinley](https://www.linkedin.com/in/nigelfinley/)
 
 </div>
 
