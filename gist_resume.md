@@ -1,10 +1,12 @@
-<img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_126/v1505003729/NF__2_o4xu3s.png" />
+<p align="center"><img src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_126/v1505003729/NF__2_o4xu3s.png" />
 
-#### NIGEL FINLEY
+
+
+### NIGEL FINLEY
 ###### Customer Focused. Lifelong Learner. Solutions Architect
 520.604.1922 | nfinleymusic@gmail.com | [github.com/Nfinley](https://github.com/nfinley) | [linkedin.com/in/nigelfinley](https://www.linkedin.com/in/nigelfinley/)
 
-
+</p>
 ***
 
 
