@@ -5,23 +5,20 @@
 520.604.1922 | nfinleymusic@gmail.com | [github.com/Nfinley](https://github.com/nfinley) | [linkedin.com/in/nigelfinley](https://www.linkedin.com/in/nigelfinley/)
 
 
-
-
-
 ***
 
-<div>
+
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004843/bulls-eye_ri3p8v.png" />
  
 # Professional Summary
 
 <p> I am a passionate and driven full-stack developer focused on creating functional web applications using the latest technology stacks. My transition into web development began after spending six years leading the Music Licensing and Copyright Division at Mood Media. In both professions, I thrive in analyzing problems and architecting solutions to drive efficiencies and improve user experience.</p>
 
-</div>
+
 
 ***
 
-<div>
+
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004848/graduate_qytvha.png" />
  
 # Education
@@ -34,17 +31,17 @@ JULY 2016 - FEBRUARY 2017 AUSTIN, TX
 *University of Puget Sound*  
 SEPTEMBER 2003 - MAY 2007 TACOMA, WA
 
-</div>
+
 
 ***
 
-<div>
-<span><img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004852/suitcase_pxd7xv.png" /></span>
+
+<img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004852/suitcase_pxd7xv.png" />
 
 # Experience
 
 ### UX Developer  
-*Texas NIC   AUSTIN, TX* | APRIL 2017 - PRESENT    
+Texas NIC   AUSTIN, TX | APRIL 2017 - PRESENT    
 *Texas NIC, helps Texans quickly do business with the state online, and help government seamlessly manage those transactions. From ready-made apps to 100% custom solutions, Texas NIC gives state partners the hands-on human care necessary to keep all their technology humming day and night.*
 * Created, codified and implemented React.js code standards across front end team
 * Wrote reusable React components using the declarative methodology, unit tests, CSS styling and UX design feedback for an enterprise form generation application
@@ -53,7 +50,7 @@ SEPTEMBER 2003 - MAY 2007 TACOMA, WA
  
 
 ### Full Stack Web Developer  
-*SOLARIN TECHNOLOGIES   AUSTIN, TX*  | MARCH 2017 - PRESENT   
+SOLARIN TECHNOLOGIES   AUSTIN, TX  | MARCH 2017 - PRESENT   
  *Solarin Technologies provides custom connected IoT solutions for the manufacturing industry.*
  * Provided 100% increase in company visibility through design and launch of website using Javascript/Node.js with deployment on Azure Cloud Services
  * Refactoring current site to be mobile responsive and accessible
@@ -61,7 +58,7 @@ SEPTEMBER 2003 - MAY 2007 TACOMA, WA
  `Technologies leveraged: Vue.js, Node.js, Azure Cloud Services, Materialize, Vuetify, jQuery, Gitlab, Particle Photon`
 
 ### Front End Developer  
-*MOOD MEDIA AUSTIN, TX* | FEBRUARY 2017 - APRIL 2017  
+MOOD MEDIA AUSTIN, TX | FEBRUARY 2017 - APRIL 2017  
 *Mood Media is the global leader in elevating the consumer experience. Our sight, sound, scent, social mobile technology, and systems solutions reach over 150 million consumers each day through more than 500,000 subscriber locations in 100+ countries around the globe.*
 * Improved UI of proprietary asset management software built on .NET framework and Angular view layer 
 * Composed and improved platform documentation for enterprise content management system
@@ -69,18 +66,17 @@ SEPTEMBER 2003 - MAY 2007 TACOMA, WA
 `Technologies leveraged: Visual Studio, Angular 1, Github, SQL, GIT`
  
 ### Sr. Manager Music Licensing & Label Relations  
-*MOOD MEDIA AUSTIN, TX*  | SEPTEMBER 2010 - APRIL 2017
+MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 * Lead licensing efforts and designed, and implemented custom enterprise proprietary music asset CMS system eliminating the need for 5 previous platforms
 * Generated over $500k in revenue and $250K in net profit in last two years through synchronization licensing
 * Led a team of 6, set team goals, created development plans and fostered effective teamwork to consistently exceed quarterly departmental goals by average of 20%
 * Identified inefficiencies in physical licensing process and migrated all license acquisitions to digital platform saving team over 400 hours a month
 
-</div>
+
 
 ***
 
-<div>
-<span><img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_30/v1505004838/fire_2_knew5c.png" /></span>
+<img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_30/v1505004838/fire_2_knew5c.png" />
 
 # Projects
 ### Showcase: Full Stack Developer
@@ -107,12 +103,12 @@ SEPTEMBER 2003 - MAY 2007 TACOMA, WA
 * Implemented and customized user interface based on team vision using HTML5, CSS3 and the Materialize framework
 * Spearheaded Google Maps build and integration which included user- based geolocation and population of custom markers
 
-</div>
+
 
 ***
 
-<div>
-<span><img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_22/v1505004845/bulb_wipu3m.png" /></span>
+
+<img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_22/v1505004845/bulb_wipu3m.png" />
 
 
 # References
