@@ -40,7 +40,7 @@ SEPTEMBER 2003 - MAY 2007 TACOMA, WA
 
 # Experience
 
-### UX Developer  
+## UX Developer  
 Texas NIC   AUSTIN, TX | APRIL 2017 - PRESENT    
 *Texas NIC, helps Texans quickly do business with the state online, and help government seamlessly manage those transactions. From ready-made apps to 100% custom solutions, Texas NIC gives state partners the hands-on human care necessary to keep all their technology humming day and night.*
 * Created, codified and implemented React.js code standards across front end team
@@ -49,7 +49,7 @@ Texas NIC   AUSTIN, TX | APRIL 2017 - PRESENT
 `Technologies leveraged: React.js, Redux, Javascript, Jest/Enzyme, 18F, HTML5, CSS3, AWS`
  
 
-### Full Stack Web Developer  
+## Full Stack Web Developer  
 SOLARIN TECHNOLOGIES   AUSTIN, TX  | MARCH 2017 - PRESENT   
  *Solarin Technologies provides custom connected IoT solutions for the manufacturing industry.*
  * Provided 100% increase in company visibility through design and launch of website using Javascript/Node.js with deployment on Azure Cloud Services
@@ -57,7 +57,7 @@ SOLARIN TECHNOLOGIES   AUSTIN, TX  | MARCH 2017 - PRESENT
  * Redesigning and launching two additional client facing websites built in Vue.js   
  `Technologies leveraged: Vue.js, Node.js, Azure Cloud Services, Materialize, Vuetify, jQuery, Gitlab, Particle Photon`
 
-### Front End Developer  
+## Front End Developer  
 MOOD MEDIA AUSTIN, TX | FEBRUARY 2017 - APRIL 2017  
 *Mood Media is the global leader in elevating the consumer experience. Our sight, sound, scent, social mobile technology, and systems solutions reach over 150 million consumers each day through more than 500,000 subscriber locations in 100+ countries around the globe.*
 * Improved UI of proprietary asset management software built on .NET framework and Angular view layer 
@@ -65,7 +65,7 @@ MOOD MEDIA AUSTIN, TX | FEBRUARY 2017 - APRIL 2017
 * Increased Licensing team efficiency through report delivery via SQL queries  
 `Technologies leveraged: Visual Studio, Angular 1, Github, SQL, GIT`
  
-### Sr. Manager Music Licensing & Label Relations  
+## Sr. Manager Music Licensing & Label Relations  
 MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 * Lead licensing efforts and designed, and implemented custom enterprise proprietary music asset CMS system eliminating the need for 5 previous platforms
 * Generated over $500k in revenue and $250K in net profit in last two years through synchronization licensing
