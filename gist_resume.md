@@ -1,4 +1,4 @@
-<div >
+<div>
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_126/v1505003729/NF__2_o4xu3s.png" />
 
 #### NIGEL FINLEY
@@ -45,8 +45,7 @@ SEPTEMBER 2003 - MAY 2007 TACOMA, WA
 # Experience
 
 ### UX Developer  
-*Texas NIC   AUSTIN, TX*  
- APRIL 2017 - PRESENT    
+*Texas NIC   AUSTIN, TX* APRIL 2017 - PRESENT    
 *Texas NIC, helps Texans quickly do business with the state online, and help government seamlessly manage those transactions. From ready-made apps to 100% custom solutions, Texas NIC gives state partners the hands-on human care necessary to keep all their technology humming day and night.*
 * Created, codified and implemented React.js code standards across front end team
 * Wrote reusable React components using the declarative methodology, unit tests, CSS styling and UX design feedback for an enterprise form generation application
@@ -55,8 +54,7 @@ SEPTEMBER 2003 - MAY 2007 TACOMA, WA
  
 
 ### Full Stack Web Developer  
-*SOLARIN TECHNOLOGIES   AUSTIN, TX*  
- MARCH 2017 - PRESENT   
+*SOLARIN TECHNOLOGIES   AUSTIN, TX*  MARCH 2017 - PRESENT   
  *Solarin Technologies provides custom connected IoT solutions for the manufacturing industry.*
  * Provided 100% increase in company visibility through design and launch of website using Javascript/Node.js with deployment on Azure Cloud Services
  * Refactoring current site to be mobile responsive and accessible
@@ -64,8 +62,7 @@ SEPTEMBER 2003 - MAY 2007 TACOMA, WA
  `Technologies leveraged: Vue.js, Node.js, Azure Cloud Services, Materialize, Vuetify, jQuery, Gitlab, Particle Photon`
 
 ### Front End Developer  
-*MOOD MEDIA AUSTIN, TX*  
-FEBRUARY 2017 - APRIL 2017  
+*MOOD MEDIA AUSTIN, TX* FEBRUARY 2017 - APRIL 2017  
 *Mood Media is the global leader in elevating the consumer experience. Our sight, sound, scent, social mobile technology, and systems solutions reach over 150 million consumers each day through more than 500,000 subscriber locations in 100+ countries around the globe.*
 * Improved UI of proprietary asset management software built on .NET framework and Angular view layer 
 * Composed and improved platform documentation for enterprise content management system
@@ -73,8 +70,7 @@ FEBRUARY 2017 - APRIL 2017
 `Technologies leveraged: Visual Studio, Angular 1, Github, SQL, GIT`
  
 ### Sr. Manager Music Licensing & Label Relations  
-*MOOD MEDIA AUSTIN, TX*  
-SEPTEMBER 2010 - APRIL 2017
+*MOOD MEDIA AUSTIN, TX*  SEPTEMBER 2010 - APRIL 2017
 * Lead licensing efforts and designed, and implemented custom enterprise proprietary music asset CMS system eliminating the need for 5 previous platforms
 * Generated over $500k in revenue and $250K in net profit in last two years through synchronization licensing
 * Led a team of 6, set team goals, created development plans and fostered effective teamwork to consistently exceed quarterly departmental goals by average of 20%
@@ -153,5 +149,5 @@ happy(today);
 
 ***
 
-<p align="center"><img src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_45/v1505003729/NF__2_o4xu3s.png" /> <a src="nigelfinley.com">nigelfinley.com</a> 
+<p align="center"><a src="nigelfinley.com"><img src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_45/v1505003729/NF__2_o4xu3s.png" /></a> 
 </p>
