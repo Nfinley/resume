@@ -81,25 +81,25 @@ MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 # Projects
 ### Showcase: Full Stack Developer
 *A music discovery application that uses the Songkick API and Spotify to generate playlists based on user's location*  
-`React, Node.js, Redis and Bootstrap - discovershowcase.herokuapp.com`  
+`React, Node.js, Redis and Bootstrap` - [discovershowcase.herokuapp.com](discovershowcase.herokuapp.com)
 * Built, architected and designed MVP React application from concept to implementation that provides an efficient solution for users to rapidly listen to new music by bands performing in their area
 * Continuing feature improvements, refactoring and UX redesign
 
 
 ### Thefinleycode.com: Blogger & Coding Enthusiast
-`Ghost Blog Platform, self-hosting on Digital Ocean - thefinleycode.com`  
+`Ghost Blog Platform, self-hosting on Digital Ocean` - [thefinleycode.com](thefinleycode.com)  
 *Personal Blog examining the intersection of music, code and copyright.*
 
 
 ### Gnome @ Home: Front End Developer/Testing
 *A home-automation application designed to control wifi enabled hardware connected to home devices, created with three developers*
-`Sails.js framework using Node.js and Express.js - gnome-home.herokuapp.com`  
+`Sails.js framework using Node.js and Express.js` - [gnome-home.herokuapp.com](gnome-home.herokuapp.com) 
 * Designed user dashboard to control hardware using Bootstrap 4 and EJS templating 
 * Wrote user tests, in Mocha.js and Nightmare.js, targeting the functionality of the website including registration, login, and forms  
 
 ### Day With Your Dog: Full Stack Developer
 *Built with two other developers, Day With Your Dog is a simple lifestyle website that allows users to plan a day with their dog (Austin beta)*
-`Node.js, Underscore.js and Firebase - daywithyourdog.herokuapp.com`  
+`Node.js, Underscore.js and Firebase` - [daywithyourdog.herokuapp.com](http://daywithyourdog.herokuapp.com/)  
 * Implemented and customized user interface based on team vision using HTML5, CSS3 and the Materialize framework
 * Spearheaded Google Maps build and integration which included user- based geolocation and population of custom markers
 
