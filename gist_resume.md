@@ -1,11 +1,11 @@
- 
+<html>
 <div style="margin-bottom: 25px">
 <span><img style="float:left; margin-right: 20px"src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_126/v1505003729/NF__2_o4xu3s.png" /></span>
 
 
 ### NIGEL FINLEY
 ###### Customer Focused. Lifelong Learner. Solutions Architect
-520.604.1922 | nfinleymusic@gmail.com | [github.com/Nfinley](https://github.com/nfinley) | [linkedin.com/in/nigelfinley](https://www.linkedin.com/in/nigelfinley/)
+:phone 520.604.1922 | nfinleymusic@gmail.com | [github.com/Nfinley](https://github.com/nfinley) | [linkedin.com/in/nigelfinley](https://www.linkedin.com/in/nigelfinley/)
 
 </div>
 
@@ -143,6 +143,18 @@ Mood Media <em>melanie.mccool@moodmedia.com</em>
 
 ***
 
+
+  
+```javascript
+function happy(today){
+    const coding="me"+"computer"+"coffee";
+    if(today === coding){
+        alert("It's great day!")    
+    }
+}
+
+happy(today);
+```
 <div style="display: flex; flex-direction: row; justify-content: center; margin-bottom: 10px;"
 <div>
 <span><img style="float:left; margin-right: 10px"src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_45/v1505003729/NF__2_o4xu3s.png" /></span> <span style="margin-top: 10px"> <a src="nigelfinley.com">nigelfinley.com</a> <span>
@@ -151,14 +163,5 @@ Mood Media <em>melanie.mccool@moodmedia.com</em>
 
 </div>
 </div>
-  
-````language-javascript
-function happy(today){
-    const coding="me"+"computer"+"coffee";
-    if(today === coding){
-        alert("It's great day")    
-    }
-}
 
-happy(today);
-````
+</html>
