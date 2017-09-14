@@ -1,12 +1,10 @@
-<img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_126/v1505003729/NF__2_o4xu3s.png" />
 
-### NIGEL FINLEY
+# NIGEL FINLEY
 ###### Customer Focused. Lifelong Learner. Solutions Architect
 520.604.1922 | nfinleymusic@gmail.com | [github.com/Nfinley](https://github.com/nfinley) | [linkedin.com/in/nigelfinley](https://www.linkedin.com/in/nigelfinley/)
 
 
 ***
-
 
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004843/bulls-eye_ri3p8v.png" />
  
@@ -25,8 +23,8 @@ My transition into web development began after spending six years leading the Mu
 # Experience
 ## UX Developer  
 Texas NIC   AUSTIN, TX | APRIL 2017 - PRESENT    
-* Spearheaded coding standards project by implementing 24+ new React code standards thus increasing code consistency and enforcement across team 
-* Wrote over 50 reusable React components using the declarative methodology, and over 25 unit tests for an enterprise form generation application
+* Spearheaded coding standards project by implementing 24+ new React code standards, increasing code consistency and enforcement across the front end team 
+* Wrote over 50 reusable React components using declarative methodology, and over 25 unit tests for an enterprise form generation application
 * Partnered daily with UX designer to implement vision for functional and impactful user interfaces using HTML5, CSS3 styling and Javascript 
 * Collaborated with backend developers to optimize existing REST API
 * Initiated and conducted design pattern discussions to ensure dry, reusable and effective code base.  
@@ -42,7 +40,7 @@ SOLARIN TECHNOLOGIES   AUSTIN, TX  | MARCH 2017 - PRESENT
 
 ## Front End Developer  
 MOOD MEDIA AUSTIN, TX | FEBRUARY 2017 - APRIL 2017  
-* Decreased Licensing team's monthly manual reporting hours by 40% through new report deliveries via SQL queries  
+* Decreased Licensing team's monthly manual reporting hours by 40% through redesign reporting pipeline using MySQL queries  
 * Improved UI of proprietary asset management software built on .NET framework and Angular view layer 
 * Updated and increased platform documentation readability for enterprise content management system, allowing for streamlined on boarding
 `Technologies leveraged: Visual Studio, Angular 1, Github, SQL, GIT`
