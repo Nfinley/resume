@@ -11,40 +11,33 @@
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004843/bulls-eye_ri3p8v.png" />
  
 # Professional Summary
+The purpose of this section is to define you as a professional and cover those areas most relevant to your career level and job target.
 
-<p> I am a passionate and driven full-stack developer focused on creating functional web applications using the latest technology stacks. My transition into web development began after spending six years leading the Music Licensing and Copyright Division at Mood Media. In both professions, I thrive in analyzing problems and architecting solutions to drive efficiencies and improve user experience.</p>
+<p>  I am a passionate and driven full stack developer currently specializing in Javascript and React creating beautiful, accessible, and functional web applications using the latest technology stacks. I am well versed in HTML5, CSS My transition into web development began after spending six years leading the Music Licensing and Copyright Division at Mood Media. In both professions, I thrive in analyzing problems and architecting solutions to drive efficiencies and improve user experience.</p>
+I have a knack for creativty and 
+Quick learner, love to pick up new technologies, great at working on a team, very collaborative work hard to ship the best posible product
 
-
-
-***
-
-
-<img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004848/graduate_qytvha.png" />
- 
-# Education
-
-**Certificate, Full Stack Web Development**  
-*University of Texas at Austin*  
-JULY 2016 - FEBRUARY 2017 AUSTIN, TX
-
-**Bachelor of Arts, Music Business**  
-*University of Puget Sound*  
-SEPTEMBER 2003 - MAY 2007 TACOMA, WA
-
+- I am a leader
+- Great communication
+-Self-starter and hungry to learn
+understands the agiel workflow and the product lifecycle
+excellent communications skills, great at bringing teams together
+Natural leader and can rally teams behind a common goal
 
 
 ***
-
 
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004852/suitcase_pxd7xv.png" />
 
 # Experience
-
+Slashed payroll/benefits administration costs 30% by negotiating pricing and fees, while ensuring the continuation and enhancements of services.
 ## UX Developer  
 Texas NIC   AUSTIN, TX | APRIL 2017 - PRESENT    
 *Texas NIC, helps Texans quickly do business with the state online, and help government seamlessly manage those transactions. From ready-made apps to 100% custom solutions, Texas NIC gives state partners the hands-on human care necessary to keep all their technology humming day and night.*
-* Created, codified and implemented React.js code standards across front end team
-* Wrote reusable React components using the declarative methodology, unit tests, CSS styling and UX design feedback for an enterprise form generation application
+* Spearheaded coding standards project by implementing 24+ React.js new code standards, increasing code consistency and enforcement across team 
+* Wrote over 50 reusable React components using the declarative methodology, and over 25 unit tests for an enterprise form generation application
+* Partnered daily with UX designer to implement vision for functional and impactful user interfaces using HTML5, CSS3 styling and Javascript 
+* Collaborated with backend developers to optimize existing REST API
 * Initiated and conducted design pattern discussions to ensure code base and components are dry, reusable and effective.  
 `Technologies leveraged: React.js, Redux, Javascript, Jest/Enzyme, 18F, HTML5, CSS3, AWS`
  
@@ -67,12 +60,27 @@ MOOD MEDIA AUSTIN, TX | FEBRUARY 2017 - APRIL 2017
  
 ## Sr. Manager Music Licensing & Label Relations  
 MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
-* Lead licensing efforts and designed, and implemented custom enterprise proprietary music asset CMS system eliminating the need for 5 previous platforms
+* Lead licensing efforts and designed, and implemented a custom enterprise proprietary music asset CMS system eliminating the need for 5 previous platforms
 * Generated over $500k in revenue and $250K in net profit in last two years through synchronization licensing
 * Led a team of 6, set team goals, created development plans and fostered effective teamwork to consistently exceed quarterly departmental goals by average of 20%
 * Identified inefficiencies in physical licensing process and migrated all license acquisitions to digital platform saving team over 400 hours a month
 
 
+<img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004848/graduate_qytvha.png" />
+ 
+
+# Education
+
+**Certificate, Full Stack Web Development**  
+*University of Texas at Austin*  
+JULY 2016 - FEBRUARY 2017 AUSTIN, TX
+
+**Bachelor of Arts, Music Business**  
+*University of Puget Sound*  
+SEPTEMBER 2003 - MAY 2007 TACOMA, WA
+
+
+*** 
 
 ***
 
@@ -110,32 +118,25 @@ MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_22/v1505004845/bulb_wipu3m.png" />
 
+# Technnologies
+* Javascript
+* React
+* Redux
+* Node.js
+* Ajax
+* Testing libraries: Jest, Enzyme and Nightmare
+* Version control: Github, Gitlab and Git
+* Databases including: MySQl, MongoDB, Redis and Firebase
+* Front end frameworks including: Bootstrap, Materialize, 18f, Vuetify, and Material
 
-# References
-**Brian Doyal**    
-Lead Platform Developer Bioware    
-*bdoyal@bioware.com*
-
-
-**Gabe Levasseur**  
-Software Engineer Dun & Bradstreet     
-*gabel0287@gmail.com*
-
-**Melanie McCool**  
-VP Legal & Licensing    
-Mood Media   
-*melanie.mccool@moodmedia.com*
-
-
-***
 
 ### A litte about me as described by a Javascript function:
   
 ```javascript
 function happy(today){
-    const coding="me"+"computer"+"coffee";
+    const coding="me"+"computer"+"coffee"+"creatingBetterExperiences";
     if(today === coding){
-        alert("It's great day!")    
+        alert("It's great day!");    
     }
 }
 
