@@ -11,7 +11,6 @@
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004843/bulls-eye_ri3p8v.png" />
  
 # Professional Summary
-The purpose of this section is to define you as a professional and cover those areas most relevant to your career level and job target.
 
 <p>  I am a passionate and driven full stack developer currently specializing in Javascript and React creating beautiful, accessible, and functional web applications.
 As a natural leader I rally teams behind a common goal through my strong communication skills and charisma to deliver exceptional service and products. I am well versed in HTML5, CSS3 and Javascript, 
