@@ -13,16 +13,10 @@
 # Professional Summary
 The purpose of this section is to define you as a professional and cover those areas most relevant to your career level and job target.
 
-<p>  I am a passionate and driven full stack developer currently specializing in Javascript and React creating beautiful, accessible, and functional web applications using the latest technology stacks. I am well versed in HTML5, CSS My transition into web development began after spending six years leading the Music Licensing and Copyright Division at Mood Media. In both professions, I thrive in analyzing problems and architecting solutions to drive efficiencies and improve user experience.</p>
-I have a knack for creativty and 
-Quick learner, love to pick up new technologies, great at working on a team, very collaborative work hard to ship the best posible product
-
-- I am a leader
-- Great communication
--Self-starter and hungry to learn
-understands the agiel workflow and the product lifecycle
-excellent communications skills, great at bringing teams together
-Natural leader and can rally teams behind a common goal
+<p>  I am a passionate and driven full stack developer currently specializing in Javascript and React creating beautiful, accessible, and functional web applications.
+As a natural leader I rally teams behind a common goal through my strong communication skills and charisma to deliver exceptional service and products. I am well versed in HTML5, CSS3 and Javascript, 
+extremely creative, have a solid work ethic and believe there is always a solution. I bring the aforementioned traits and skills along with my passion for continuous learning to every team I work with. 
+My transition into web development began after spending six years leading the Music Licensing and Copyright Division at Mood Media. In both professions, I thrive in analyzing problems and architecting solutions to drive efficiencies and improve user experience.</p>
 
 
 ***
@@ -30,57 +24,38 @@ Natural leader and can rally teams behind a common goal
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004852/suitcase_pxd7xv.png" />
 
 # Experience
-Slashed payroll/benefits administration costs 30% by negotiating pricing and fees, while ensuring the continuation and enhancements of services.
 ## UX Developer  
 Texas NIC   AUSTIN, TX | APRIL 2017 - PRESENT    
-*Texas NIC, helps Texans quickly do business with the state online, and help government seamlessly manage those transactions. From ready-made apps to 100% custom solutions, Texas NIC gives state partners the hands-on human care necessary to keep all their technology humming day and night.*
-* Spearheaded coding standards project by implementing 24+ React.js new code standards, increasing code consistency and enforcement across team 
+* Spearheaded coding standards project by implementing 24+ new React code standards thus increasing code consistency and enforcement across team 
 * Wrote over 50 reusable React components using the declarative methodology, and over 25 unit tests for an enterprise form generation application
 * Partnered daily with UX designer to implement vision for functional and impactful user interfaces using HTML5, CSS3 styling and Javascript 
 * Collaborated with backend developers to optimize existing REST API
-* Initiated and conducted design pattern discussions to ensure code base and components are dry, reusable and effective.  
+* Initiated and conducted design pattern discussions to ensure dry, reusable and effective code base.  
 `Technologies leveraged: React.js, Redux, Javascript, Jest/Enzyme, 18F, HTML5, CSS3, AWS`
  
 
 ## Full Stack Web Developer  
 SOLARIN TECHNOLOGIES   AUSTIN, TX  | MARCH 2017 - PRESENT   
- *Solarin Technologies provides custom connected IoT solutions for the manufacturing industry.*
- * Provided 100% increase in company visibility through design and launch of website using Javascript/Node.js with deployment on Azure Cloud Services
- * Refactoring current site to be mobile responsive and accessible
+ * Increased company online presence and visibility by 100% through design and launch of website using Javascript/Node.js with deployment on Azure Cloud Services
+ * Spearheading current website refactor to ensure mobile responsiveness and a11y/WC3 compliance
  * Redesigning and launching two additional client facing websites built in Vue.js   
  `Technologies leveraged: Vue.js, Node.js, Azure Cloud Services, Materialize, Vuetify, jQuery, Gitlab, Particle Photon`
 
 ## Front End Developer  
 MOOD MEDIA AUSTIN, TX | FEBRUARY 2017 - APRIL 2017  
-*Mood Media is the global leader in elevating the consumer experience. Our sight, sound, scent, social mobile technology, and systems solutions reach over 150 million consumers each day through more than 500,000 subscriber locations in 100+ countries around the globe.*
+* Decreased Licensing team's monthly manual reporting hours by 40% through new report deliveries via SQL queries  
 * Improved UI of proprietary asset management software built on .NET framework and Angular view layer 
-* Composed and improved platform documentation for enterprise content management system
-* Increased Licensing team efficiency through report delivery via SQL queries  
+* Updated and increased platform documentation readability for enterprise content management system, allowing for streamlined on boarding
 `Technologies leveraged: Visual Studio, Angular 1, Github, SQL, GIT`
  
 ## Sr. Manager Music Licensing & Label Relations  
 MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
-* Lead licensing efforts and designed, and implemented a custom enterprise proprietary music asset CMS system eliminating the need for 5 previous platforms
-* Generated over $500k in revenue and $250K in net profit in last two years through synchronization licensing
+* Championed licensing efforts and designed, and implemented a custom enterprise proprietary music asset CMS system eliminating the need for 5 previous platforms
+* Generated over $500k in revenue and $250K in net profit in two years through synchronization licensing
 * Led a team of 6, set team goals, created development plans and fostered effective teamwork to consistently exceed quarterly departmental goals by average of 20%
 * Identified inefficiencies in physical licensing process and migrated all license acquisitions to digital platform saving team over 400 hours a month
 
 
-<img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004848/graduate_qytvha.png" />
- 
-
-# Education
-
-**Certificate, Full Stack Web Development**  
-*University of Texas at Austin*  
-JULY 2016 - FEBRUARY 2017 AUSTIN, TX
-
-**Bachelor of Arts, Music Business**  
-*University of Puget Sound*  
-SEPTEMBER 2003 - MAY 2007 TACOMA, WA
-
-
-*** 
 
 ***
 
@@ -129,7 +104,22 @@ SEPTEMBER 2003 - MAY 2007 TACOMA, WA
 * Databases including: MySQl, MongoDB, Redis and Firebase
 * Front end frameworks including: Bootstrap, Materialize, 18f, Vuetify, and Material
 
+*** 
 
+<img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004848/graduate_qytvha.png" />
+ 
+# Education
+
+**Certificate, Full Stack Web Development**  
+*University of Texas at Austin*  
+JULY 2016 - FEBRUARY 2017 AUSTIN, TX
+
+**Bachelor of Arts, Music Business**  
+*University of Puget Sound*  
+SEPTEMBER 2003 - MAY 2007 TACOMA, WA
+
+
+*** 
 ### A litte about me as described by a Javascript function:
   
 ```javascript
