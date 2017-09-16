@@ -72,13 +72,13 @@ MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 
 
 ### Gnome @ Home: Front End Developer/Testing
-*A home-automation application designed to control wifi enabled hardware connected to home devices, created with three developers*
+*A home-automation application designed to control wifi enabled hardware connected to home devices, created with three developers*  
 `Sails.js framework using Node.js and Express.js` - [gnome-home.herokuapp.com](gnome-home.herokuapp.com) 
 * Designed user dashboard to control hardware using Bootstrap 4 and EJS templating 
 * Wrote user tests, in Mocha.js and Nightmare.js, targeting the functionality of the website including registration, login, and forms  
 
 ### Day With Your Dog: Full Stack Developer
-*Built with two other developers, Day With Your Dog is a simple lifestyle website that allows users to plan a day with their dog (Austin beta)*
+*Built with two other developers, Day With Your Dog is a simple lifestyle website that allows users to plan a day with their dog (Austin beta)*  
 `Node.js, Underscore.js and Firebase` - [daywithyourdog.herokuapp.com](http://daywithyourdog.herokuapp.com/)  
 * Implemented and customized user interface based on team vision using HTML5, CSS3 and the Materialize framework
 * Spearheaded Google Maps build and integration which included user- based geolocation and population of custom markers
