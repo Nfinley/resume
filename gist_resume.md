@@ -49,7 +49,7 @@ MOOD MEDIA AUSTIN, TX | FEBRUARY 2017 - APRIL 2017
 MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 * Championed licensing efforts and designed, and implemented a custom enterprise proprietary music asset CMS system eliminating the need for 5 previous platforms
 * Generated over $500k in revenue and $250K in net profit in two years through synchronization licensing
-* Led a team of 6, set team goals, created development plans and fostered effective teamwork to consistently exceed quarterly departmental goals by average of 20%
+* Led a team of 6, set team goals, created development plans and fostered effective teamwork to consistently exceed quarterly departmental goals by an average of 20%
 * Identified inefficiencies in physical licensing process and migrated all license acquisitions to digital platform saving team over 400 hours a month
 
 
