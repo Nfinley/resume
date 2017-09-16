@@ -10,7 +10,7 @@
  
 # Professional Summary
 
-<p>  I am a passionate and driven full stack developer currently specializing in Javascript and React creating beautiful, accessible, and functional web applications.
+<p>  I am a passionate and driven full-stack developer currently specializing in Javascript and React creating beautiful, accessible, and functional web applications.
 As a natural leader I rally teams behind a common goal through my strong communication skills and charisma to deliver exceptional service and products. I am well versed in HTML5, CSS3 and Javascript, 
 extremely creative, have a solid work ethic and believe there is always a solution. I bring the aforementioned traits and skills along with my passion for continuous learning to every team I work with. 
 My transition into web development began after spending six years leading the Music Licensing and Copyright Division at Mood Media. In both professions, I thrive in analyzing problems and architecting solutions to drive efficiencies and improve user experience.</p>
