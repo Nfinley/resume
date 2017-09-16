@@ -42,7 +42,7 @@ SOLARIN TECHNOLOGIES   AUSTIN, TX  | MARCH 2017 - PRESENT
 MOOD MEDIA AUSTIN, TX | FEBRUARY 2017 - APRIL 2017  
 * Decreased Licensing team's monthly manual reporting hours by 40% through redesign reporting pipeline using MySQL queries  
 * Improved UI of proprietary asset management software built on .NET framework and Angular view layer 
-* Updated and increased platform documentation readability for enterprise content management system, allowing for streamlined onboarding
+* Updated and increased platform documentation readability for enterprise content management system, allowing for streamlined onboarding  
 `Technologies leveraged: Visual Studio, Angular 1, Github, SQL, GIT`
  
 ## Sr. Manager Music Licensing & Label Relations  
