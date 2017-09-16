@@ -81,7 +81,7 @@ MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 *Built with two other developers, Day With Your Dog is a simple lifestyle website that allows users to plan a day with their dog (Austin beta)*  
 `Node.js, Underscore.js and Firebase` - [daywithyourdog.herokuapp.com](http://daywithyourdog.herokuapp.com/)  
 * Implemented and customized user interface based on team vision using HTML5, CSS3 and the Materialize framework
-* Spearheaded Google Maps build and integration which included user- based geolocation and population of custom markers
+* Spearheaded Google Maps build and integration which included user-based geolocation and population of custom markers
 
 
 
