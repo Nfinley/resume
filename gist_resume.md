@@ -21,6 +21,29 @@ My transition into web development began after spending six years leading the Mu
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_40/v1505004852/suitcase_pxd7xv.png" />
 
 # Experience
+
+
+
+## Software Developer
+Committee For Children   Seattle, WA | NOVEMBER 2018 - PRESENT   
+* Full stack creation of Noe js Apis to act as insulated abstract layer from CMS
+* Build and management CI/CD piplines using Azure DevOps and Azure Cloud
+
+ 
+`Technologies leveraged: React.js, Next.js, Javascript, Node.js, Webpack, Azure, Docker, Terraform, C#/.Net, HTML5, CSS3`
+
+## Software Development Engineer 
+Stackline   Seattle, WA | APRIL 2018 - NOVEMBER 2018    
+* Successfully launched a redesigned UI and refactored/architected the code base for an enterprise data
+analytics/visualization product servicing Fortune 500 clients, allowing for future product enhancements,
+maintainability and scalability
+* Consuming and interacting with C# and ElasticSearch APIs
+* Reduced code base by 20% as result of refactoring
+* Implemented CI/CD pipeline for flagship products using AWS Cloudfront, S3, Codepipeline, Docker, and
+Terraform reducing deployment friction and decreasing initial load time
+ 
+`Technologies leveraged: React.js, Redux, Javascript, Node.js, Webpack, AWS, Docker, Terraform, HTML5, CSS3`
+
 ## UX Developer  
 Texas NIC   AUSTIN, TX | APRIL 2017 - PRESENT    
 * Spearheaded coding standards project by implementing 24+ new React code standards, increasing code consistency and enforcement across the front end team 
