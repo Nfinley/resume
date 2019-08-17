@@ -10,10 +10,7 @@
  
 # Professional Summary
 
-<p>  I am a passionate and driven full-stack developer currently specializing in Javascript and React creating beautiful, accessible, and functional web applications.
-As a natural leader I rally teams behind a common goal through my strong communication skills and charisma to deliver exceptional service and products. I am well versed in HTML5, CSS3 and Javascript, 
-extremely creative, have a solid work ethic and believe there is always a solution. I bring the aforementioned traits and skills along with my passion for continuous learning to every team I work with. 
-My transition into web development began after spending six years leading the Music Licensing and Copyright Division at Mood Media. In both professions, I thrive in analyzing problems and architecting solutions to drive efficiencies and improve user experience.</p>
+<p>  I am a passionate and driven software developer currently working in React, Javascript, Node.js, and cloud based architecture creating beautiful, accessible, and functional web applications. As a natural leader, I rally teams behind a common goal through my strong communication skills and charisma to deliver exceptional service and products. I am well versed in full-stack Javascript, React, Redux, CI/CD, extremely creative, have a solid work ethic and believe there is always a solution. I bring the aforementioned traits and skills along with my passion for continuous learning to every team I work with. Prior to software development, I spent six years leading the Music Licensing and Copyright Division at Mood Media. In both professions, I thrive in analyzing problems and architecting solutions to drive efficiencies and improve the user experience. </p>
 
 
 ***
@@ -24,13 +21,23 @@ My transition into web development began after spending six years leading the Mu
 
 
 
-## Software Developer
+## Software Developer / DevOps Engineer
 Committee For Children   Seattle, WA | NOVEMBER 2018 - PRESENT   
-* Full stack creation of Noe js Apis to act as insulated abstract layer from CMS
-* Build and management CI/CD piplines using Azure DevOps and Azure Cloud
-
+* Identified inconsistencies and performance issues with CI/CD pipelines, rewrote and optimized resulting in an 80% increase in completion time and deployment saving the organization over 200 minutes of build time a week
+* Played key role in identifying current cloud architecture resources and converting over 75% to infrastructure as code using Terraform, allowing for git controlled infrastructure and reducing total environment deployment from over 5 hours to less than 30 minutes
+* Key contributor in rewriting Dot Net Nuke web application using React and Next.js with a successful migration to production
+* Spearheaded git and deployment workflow codification and discussion to establish company standards
+* Provide support, guidance and constructive feedback to team members
+* Created and implemented onboarding/new hire documentation allowing for faster future hire ramp up
  
-`Technologies leveraged: React.js, Next.js, Javascript, Node.js, Webpack, Azure, Docker, Terraform, C#/.Net, HTML5, CSS3`
+`Technologies leveraged: React.js, Next.js, Javascript, Node.js, Jest, Webpack, Azure, Docker, Terraform, C#/.Net, Broswerstack, MongoDb, SQL, HTML, CSS`
+
+## Technical Founder & CEO
+Unfiltered Build   Seattle, WA | DECEMBER 2018 - PRESENT   
+* A design and development incubator for creative thinkers pursuing an uninhibited passion for innovation
+* Currently developing, architecting and designing an app with a mission to change the way our users discover and experience music
+ 
+`Technologies leveraged: React.js, Javascript, AWS Amplify, Node.js, GraphQL`
 
 ## Software Development Engineer 
 Stackline   Seattle, WA | APRIL 2018 - NOVEMBER 2018    
@@ -42,7 +49,7 @@ maintainability and scalability
 * Implemented CI/CD pipeline for flagship products using AWS Cloudfront, S3, Codepipeline, Docker, and
 Terraform reducing deployment friction and decreasing initial load time
  
-`Technologies leveraged: React.js, Redux, Javascript, Node.js, Webpack, AWS, Docker, Terraform, HTML5, CSS3`
+`Technologies leveraged: React.js, Redux, Javascript, Node.js, Webpack, AWS, Docker, Terraform, HTML, CSS`
 
 ## UX Developer  
 Texas NIC   AUSTIN, TX | APRIL 2017 - PRESENT    
@@ -51,7 +58,7 @@ Texas NIC   AUSTIN, TX | APRIL 2017 - PRESENT
 * Partnered daily with UX designer to implement vision for functional and impactful user interfaces using HTML5, CSS3 styling and Javascript 
 * Collaborated with backend developers to optimize existing REST API
 * Initiated and conducted design pattern discussions to ensure dry, reusable and effective code base.  
-`Technologies leveraged: React.js, Redux, Javascript, Jest/Enzyme, 18F, HTML5, CSS3, AWS`
+`Technologies leveraged: React.js, Redux, Javascript, Jest/Enzyme, 18F, HTML, CSS, AWS`
  
 
 ## Full Stack Web Developer  
@@ -119,7 +126,8 @@ MOOD MEDIA AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 * Redux
 * Node.js
 * Ajax
-* Testing libraries: Jest, Enzyme and Nightmare
+* Testing libraries/tools: Jest, Enzyme, Browserstack and Nightmare
+* DevOps: Terraform, Cloudformation, CircleCi and Azure Devops CI/CD tools
 * Version control: Github, Gitlab and Git
 * Databases including: MySQl, MongoDB, Redis and Firebase
 * Front end frameworks including: Bootstrap, Materialize, 18f, Vuetify, and Material
