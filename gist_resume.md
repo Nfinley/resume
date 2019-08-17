@@ -23,18 +23,18 @@
 
 ## Software Developer / DevOps Engineer
 Committee For Children |  Seattle, WA | NOVEMBER 2018 - PRESENT   
-* Identified inconsistencies and performance issues with CI/CD pipelines, rewrote and optimized resulting in an 80% increase in completion time and deployment saving the organization over 200 minutes of build time a week
-* Played key role in identifying current cloud architecture resources and converting over 75% to infrastructure as code using Terraform, allowing for git controlled infrastructure and reducing total environment deployment from over 5 hours to less than 30 minutes
-* Key contributor in rewriting Dot Net Nuke web application using React and Next.js with a successful migration to production
-* Spearheaded git and deployment workflow codification and discussion to establish company standards
+* Key contributor in rewriting Dot Net Nuke web application using React and Next.js replacing the current production version
+* Identified inconsistencies and performance issues with CI/CD pipelines and rewrote their implementation resulting in an 80% reduction in deployment time saving the organization over 200 minutes of build time a week
+* Played large role in identifying current cloud architecture resources and converting over 75% to infrastructure as code using Terraform, allowing for git controlled infrastructure and reducing total environment deployment from over 5+ hours to less than 30 minutes
+* Spearheaded git and deployment workflow codification and discussion to establish new engineering standards
 * Provide support, guidance and constructive feedback to team members
-* Created and implemented onboarding/new hire documentation allowing for faster future hire ramp up
+* Created and implemented on boarding documentation allowing for faster new hire ramp up
  
 `Technologies leveraged: React.js, Next.js, Javascript, Node.js, Jest, Webpack, Azure, Docker, Terraform, C#/.Net, Broswerstack, MongoDb, SQL, HTML, CSS`
 
 ## Technical Founder & CEO
 Unfiltered Build |  Seattle, WA | DECEMBER 2018 - PRESENT   
-* A design and development incubator for creative thinkers pursuing an uninhibited passion for innovation
+* Creating a design and development incubator for creative thinkers pursuing an uninhibited passion for innovation
 * Currently developing, architecting and designing an app with a mission to change the way our users discover and experience music
  
 `Technologies leveraged: React.js, Javascript, AWS Amplify, Node.js, GraphQL`
@@ -45,7 +45,7 @@ Stackline | Seattle, WA | APRIL 2018 - NOVEMBER 2018
 analytics/visualization product servicing Fortune 500 clients, allowing for future product enhancements,
 maintainability and scalability
 * Consuming and interacting with C# and ElasticSearch APIs
-* Reduced code base by 20% as result of refactoring
+* Reduced code base by 20% as a result of refactoring the entire flagship product
 * Implemented CI/CD pipeline for flagship products using AWS Cloudfront, S3, Codepipeline, Docker, and
 Terraform reducing deployment friction and decreasing initial load time
  
