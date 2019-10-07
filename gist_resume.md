@@ -23,7 +23,7 @@
 
 ## Software Developer / DevOps Engineer
 Committee For Children |  Seattle, WA | NOVEMBER 2018 - PRESENT   
-* Key contributor in rewriting Dot Net Nuke web application using React and Next.js replacing the current production version
+* Key contributor in rewriting Dot Net Nuke web application using React and Next.js replacing the current production application
 * Identified inconsistencies and performance issues with CI/CD pipelines and rewrote their implementation resulting in an 80% reduction in deployment time saving the organization over 200 minutes of build time a week
 * Played large role in identifying current cloud architecture resources and converting over 75% to infrastructure as code using Terraform, allowing for git controlled infrastructure and reducing total environment deployment from over 5+ hours to less than 30 minutes
 * Spearheaded git and deployment workflow codification and discussion to establish new engineering standards
