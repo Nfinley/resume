@@ -19,10 +19,14 @@
 
 # Experience
 
-
+## Software Developer / Team Lead
+Committee For Children |  Seattle, WA | FEBRUARY 2020 - PRESENT   
+* Lead dev team of four with fluid communication, servant leadership and high level knowledge of company systems enabling  my team to consistently deliver new features and customer value sprint over sprint
+ 
+`Technologies leveraged: React.js, Javascript, Node.js, Jest, Webpack, Azure, Docker, Terraform, Nightwatch.js, Broswerstack`
 
 ## Software Developer / DevOps Engineer
-Committee For Children |  Seattle, WA | NOVEMBER 2018 - PRESENT   
+Committee For Children |  Seattle, WA | NOVEMBER 2018 - FEBRUARY 2020  
 * Key contributor in rewriting Dot Net Nuke web application using React and Next.js replacing the current production application
 * Identified inconsistencies and performance issues with CI/CD pipelines and rewrote their implementation resulting in an 80% reduction in deployment time saving the organization over 200 minutes of build time a week
 * Played large role in identifying current cloud architecture resources and converting over 75% to infrastructure as code using Terraform, allowing for git controlled infrastructure and reducing total environment deployment from over 5+ hours to less than 30 minutes
