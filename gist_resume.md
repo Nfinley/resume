@@ -21,7 +21,7 @@
 
 ## Software Developer / Team Lead
 Committee For Children |  Seattle, WA | FEBRUARY 2020 - PRESENT   
-* Lead dev team of four with fluid communication, servant leadership and high level knowledge of company systems enabling  my team to consistently deliver new features and customer value sprint over sprint
+* Lead dev team of four with fluid communication, servant leadership and high level knowledge of company systems enabling team to consistently deliver new features and customer value sprint over sprint
  
 `Technologies leveraged: React.js, Javascript, Node.js, Jest, Webpack, Azure, Docker, Terraform, Nightwatch.js, Broswerstack`
 
