@@ -40,6 +40,7 @@ Committee For Children |  Seattle, WA | NOVEMBER 2018 - FEBRUARY 2020
 Unfiltered Build |  Seattle, WA | DECEMBER 2018 - PRESENT   
 * Creating a design and development incubator for creative thinkers pursuing an uninhibited passion for innovation
 * Currently developing, architecting and designing an app with a mission to change the way our users discover and experience music
+* Assisting clients design, solution and execute e-commerce solutions driving sustained business and increased sales
  
 `Technologies leveraged: React.js, Javascript, AWS Amplify, Node.js, GraphQL`
 
