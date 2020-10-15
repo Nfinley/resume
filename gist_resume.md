@@ -47,7 +47,7 @@ Unfiltered Build |  Seattle, WA | DECEMBER 2018 - PRESENT
 * Currently developing, architecting and designing an app with a mission to change the way our users discover and experience music
 * Assisting clients design, solution and execute e-commerce solutions driving sustained business and increased sales
  
-`Technologies leveraged: React.js, Javascript, AWS Amplify, Node.js, GraphQL`
+`Technologies leveraged: React.js, Javascript, AWS Amplify, AWS Lambda, Node.js, GraphQL`
 
 ## Software Development Engineer 
 Stackline | Seattle, WA | APRIL 2018 - NOVEMBER 2018    
