@@ -19,9 +19,13 @@
 
 # Experience
 
-## Software Developer / Team Lead
+## Team Lead / Software Developer
 Committee For Children |  Seattle, WA | FEBRUARY 2020 - PRESENT   
-* Lead dev team of four with fluid communication, servant leadership and high level knowledge of company systems enabling team to consistently deliver new features and customer value sprint over sprint
+* Lead dev team of 4 with fluid communication, servant leadership and high level knowledge of company systems enabling team to consistently deliver new features and customer value sprint over sprint
+* Over a 5 month period, prior to large scale release, sustained consistent team velocity sprint over sprint while facing adverse cross team issues through leadership, tactful negotiation, and technical prowess, and delivered 100% of team committed sprint features for entire platform overhaul 
+* Through daily meticulous pull request reviews and feedback of team's code, kept compliance of front end standards, reduced number of regressions and increased team code knowledge
+* Co-designed and implement deployment strategy that decoupled cross team dependencies and increased teams production deployment frequency by 50% 
+* Wrote integration tests in parallel with feature development ensuring high quality code output and protecting against future regressions
  
 `Technologies leveraged: React.js, Javascript, Node.js, Jest, Webpack, Azure, Docker, Terraform, Nightwatch.js, Broswerstack`
 
