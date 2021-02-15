@@ -45,7 +45,7 @@ Committee For Children |  Seattle, WA | NOVEMBER 2018 - FEBRUARY 2020
 Unfiltered Build |  Seattle, WA | DECEMBER 2018 - PRESENT   
 * Creating a design and development incubator for creative thinkers pursuing an uninhibited passion for innovation
 * Currently developing, architecting and designing an app with a mission to change the way our users discover and experience music
-* Assisting clients design, solution and execute e-commerce solutions driving sustained business and increased sales
+* Assisting clients design, solution and execute e-commerce solutions driving sustained business and over $500k in annual revenue
  
 `Technologies leveraged: React.js, Javascript, AWS Amplify, AWS Lambda, Node.js, GraphQL`
 
@@ -99,9 +99,9 @@ MOOD MEDIA | AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 <img align="left" src="http://res.cloudinary.com/thefinleycode/image/fetch/http://res.cloudinary.com/thefinleycode/image/upload/c_scale,w_30/v1505004838/fire_2_knew5c.png" />
 
 # Projects
-### Showcase: Full Stack Developer
+### Resonate: Full Stack Developer
 *A music discovery application that uses the Songkick API and Spotify to generate playlists based on user's location*  
-`React, Node.js, Redis and Bootstrap` - [discovershowcase.herokuapp.com](discovershowcase.herokuapp.com)
+`React, Node.js, Redis and Bootstrap` - [Resonate](resonatetogether.io)
 * Built, architected and designed MVP React application from concept to implementation that provides an efficient solution for users to rapidly listen to new music by bands performing in their area
 * Continuing feature improvements, refactoring and UX redesign
 
@@ -135,6 +135,7 @@ MOOD MEDIA | AUSTIN, TX  | SEPTEMBER 2010 - APRIL 2017
 * React
 * Redux
 * Node.js
+* GraphQL
 * Ajax
 * Testing libraries/tools: Jest, Enzyme, Browserstack and Nightmare
 * DevOps: Terraform, Cloudformation, CircleCi and Azure Devops CI/CD tools
